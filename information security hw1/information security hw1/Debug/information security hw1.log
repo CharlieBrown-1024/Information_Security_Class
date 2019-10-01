@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\joe87\source\repos\information security hw1\information security hw1\main.cpp(27): warning C4018: '<': signed/unsigned 不相符
+c:\users\joe87\source\repos\information security hw1\information security hw1\main.cpp(31): warning C4018: '<': signed/unsigned 不相符
+c:\users\joe87\source\repos\information security hw1\information security hw1\main.cpp(39): warning C4018: '<': signed/unsigned 不相符
+c:\users\joe87\source\repos\information security hw1\information security hw1\main.cpp(44): warning C4018: '<': signed/unsigned 不相符
+  information security hw1.vcxproj -> C:\Users\joe87\source\repos\Information Security HW1\Debug\information security hw1.exe
