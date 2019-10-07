@@ -1,0 +1,17 @@
+﻿  Encrypt.cpp
+c:\users\joe87\source\repos\encrypt\encrypt\encrypt.cpp(43): warning C4018: '<': signed/unsigned 不相符
+c:\users\joe87\source\repos\encrypt\encrypt\encrypt.cpp(47): warning C4018: '<': signed/unsigned 不相符
+c:\users\joe87\source\repos\encrypt\encrypt\encrypt.cpp(60): warning C4018: '<': signed/unsigned 不相符
+c:\users\joe87\source\repos\encrypt\encrypt\encrypt.cpp(64): warning C4018: '<': signed/unsigned 不相符
+c:\users\joe87\source\repos\encrypt\encrypt\encrypt.cpp(97): warning C4018: '<': signed/unsigned 不相符
+c:\users\joe87\source\repos\encrypt\encrypt\encrypt.cpp(124): warning C4018: '<': signed/unsigned 不相符
+c:\users\joe87\source\repos\encrypt\encrypt\encrypt.cpp(132): warning C4018: '<': signed/unsigned 不相符
+c:\users\joe87\source\repos\encrypt\encrypt\encrypt.cpp(140): warning C4018: '<': signed/unsigned 不相符
+c:\users\joe87\source\repos\encrypt\encrypt\encrypt.cpp(144): warning C4018: '<': signed/unsigned 不相符
+c:\users\joe87\source\repos\encrypt\encrypt\encrypt.cpp(169): warning C4018: '<': signed/unsigned 不相符
+c:\users\joe87\source\repos\encrypt\encrypt\encrypt.cpp(185): warning C4018: '<': signed/unsigned 不相符
+c:\users\joe87\source\repos\encrypt\encrypt\encrypt.cpp(199): warning C4018: '<': signed/unsigned 不相符
+c:\users\joe87\source\repos\encrypt\encrypt\encrypt.cpp(207): warning C4018: '<': signed/unsigned 不相符
+c:\users\joe87\source\repos\encrypt\encrypt\encrypt.cpp(224): warning C4018: '<': signed/unsigned 不相符
+c:\users\joe87\source\repos\encrypt\encrypt\encrypt.cpp(229): warning C4018: '<': signed/unsigned 不相符
+  Encrypt.vcxproj -> C:\Users\joe87\source\repos\Encrypt\Debug\Encrypt.exe
