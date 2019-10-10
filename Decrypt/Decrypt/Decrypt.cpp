@@ -101,23 +101,31 @@ void playfair(string key, string text) {
 			}
 		}
 		if (row1 == row2) {
-			if (col1 - 1 >= 0 || col2 - 1 >= 0) {
-				plaintext += matrix[row1][(col1 - 1) % 5];
-				plaintext += matrix[row2][(col2 - 1) % 5];
+			if (col1 - 1 < 0) {
+				plaintext += matrix[row1][4];
 			}
 			else {
+				plaintext += matrix[row1][(col1 - 1) % 5];
+			}
+			if (col2 - 1 < 0) {
 				plaintext += matrix[row1][4];
-				plaintext += matrix[row2][4];
+			}
+			else {
+				plaintext += matrix[row1][(col2 - 1) % 5];
 			}
 		}
 		else if (col1 == col2) {
-			if (row1 - 1 >= 0 || row2 - 1 >= 0) {
-				plaintext += matrix[(row1 - 1) % 5][col1];
-				plaintext += matrix[(row2 - 1) % 5][col2];
+			if (row1 - 1 < 0) {
+				plaintext += matrix[4][col1];
 			}
 			else {
-				plaintext += matrix[4][col1];
+				plaintext += matrix[(row1 - 1) % 5][col1];
+			}
+			if (row2 - 1 < 0) {
 				plaintext += matrix[4][col2];
+			}
+			else {
+				plaintext += matrix[(row2 - 1) % 5][col2];
 			}
 		}
 		else {
