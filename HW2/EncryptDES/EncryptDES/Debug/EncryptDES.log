@@ -1,0 +1,6 @@
+﻿  EncryptDES.cpp
+c:\users\joe87\source\repos\encryptdes\encryptdes\encryptdes.cpp(141): warning C4018: '<': signed/unsigned 不相符
+c:\users\joe87\source\repos\encryptdes\encryptdes\encryptdes.cpp(189): warning C4018: '<': signed/unsigned 不相符
+c:\users\joe87\source\repos\encryptdes\encryptdes\encryptdes.cpp(214): warning C4018: '<': signed/unsigned 不相符
+c:\users\joe87\source\repos\encryptdes\encryptdes\encryptdes.cpp(248): warning C4018: '<': signed/unsigned 不相符
+  EncryptDES.vcxproj -> C:\Users\joe87\source\repos\EncryptDES\Debug\EncryptDES.exe
