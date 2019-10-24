@@ -1,0 +1,4 @@
+﻿  DecryptDES.cpp
+C:\Users\User\Desktop\資訊安全\HW\HW2\DecryptDES\DecryptDES\DecryptDES.cpp(14): error C3867: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::c_str': 非標準語法; 請使用 '&' 建立成員的指標
+C:\Users\User\Desktop\資訊安全\HW\HW2\DecryptDES\DecryptDES\DecryptDES.cpp(14): error C2789: 'key': 必須初始化常數限定類型的物件
+  C:\Users\User\Desktop\資訊安全\HW\HW2\DecryptDES\DecryptDES\DecryptDES.cpp(14): note: 請參閱 'key' 的宣告
