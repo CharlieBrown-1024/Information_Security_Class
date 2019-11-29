@@ -2,7 +2,6 @@ from PIL import Image
 from Crypto.Cipher import AES
 import os
 import io
-import sys
 
 # store image
 ppmPicture = 'linux.ppm'
@@ -126,11 +125,3 @@ newPicture = 'output3.jpg'
 im = Image.open(io.BytesIO(output))
 im.save(newPicture)
 print("output3 complete")
-
-
-
-
-
-    
-    
-
